@@ -35,7 +35,7 @@ In order to be able to provide realistic examples, we will need in our playgroun
 
     npm run server
 
-This is a small Node REST API server.
+This is a small Node REST API server. For example, you can find all courses in JSON format at http://localhost:9000/api/courses. All lessons are under the endpoint /api/lessons.
 
 ## To run the Development UI Server
 
