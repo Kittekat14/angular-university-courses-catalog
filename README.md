@@ -12,11 +12,11 @@ With the following command the angular-cli will be installed globally in your ma
 
 ## How To install this repository
 
-We can install the master branch using the following commands:
+We can install the main branch using the following command:
 
     git clone https://github.com/Kittekat14/angular-university-courses-catalog.git
   
-Then you move into the downloaded repository and install all dependencies:
+Then you move into the downloaded repository and install all dependencies in your dev environment:
 
     cd angular-university-courses-catalog
     npm install
