@@ -15,19 +15,13 @@ With the following command the angular-cli will be installed globally in your ma
 We can install the master branch using the following commands:
 
     git clone https://github.com/Kittekat14/angular-university-courses-catalog.git
+  
+Then you move into the downloaded repository and install all dependencies:
 
-This repository is made of several separate npm modules, that are installable separately. For example, to run the au-input module, we can do the following:
-
-    cd reactive-angular-course
+    cd angular-university-courses-catalog
     npm install
 
-Its also possible to install the modules as usual using npm:
-
-    npm install
-
-NPM 5 or above has the big advantage that if you use it you will be installing the exact same dependencies than I installed in my machine, so you wont run into issues caused by semantic versioning updates.
-
-This should take a couple of minutes. If there are issues, please post the complete error message in the Questions section of the course.
+This should take a couple of minutes. 
 
 ## To Run the Development Backend Server
 
